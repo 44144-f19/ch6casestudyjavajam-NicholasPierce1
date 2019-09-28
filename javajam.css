@@ -10,6 +10,7 @@ body { background-color: #FCEBB6;
       color: #221811;
       font-family: Verdana, Arial, sans-serif;
 	  background-image: url(background.gif);
+    background-attachment: fixed;
 }
 header { background-color: #D2B48C;
         height: 150px;
